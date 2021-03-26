@@ -4,12 +4,12 @@ width:715px;
 height:100px;
 }
 #menu{
-background:oldlace;
+background:DarkSalmon;
 width:190px;
 height:300px;
 }
 #content{
-background:oldlace;
+background:LightSalmon;
 width:525px;
 height:300px;
 position:absolute;
@@ -23,4 +23,12 @@ height:30px;
 }
 body{
 margin:0px;
+}
+#news{
+background:Coral;
+width:150px;
+height:280px;
+position:absolute;
+left:555px;
+top:112px;
 }
